@@ -2,11 +2,18 @@
 (By - Navpreet Kaur)
 -----------------------------------------------------------------
 
+![download](https://github.com/user-attachments/assets/6d38fdd8-508d-4205-9b74-302fe95d5836)
+
+
 
 About my College
 Currently I am pursuing B.Tech in CSE department from Guru Nanak Dev Engineering College, Ludhiana. I am hosteller. This is the golden opportunity for me to be part of this college.
 
 First Day in my hostel was on 10th July,2024.This was that grateful day on which I entered into that campus which will turn out my life with great ups and downs. The experiences which I will learn from this campus will always be a part throughout my journey. I want my journey to be very exciting.
+
+![download](https://github.com/user-attachments/assets/33e087a5-b2ee-4dcc-a261-e4bc8590b995)
+
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,6 +31,9 @@ On the very first day of my college , I was bit nervous but all my nervousness e
 **Day 2**
 
 
+![download](https://github.com/user-attachments/assets/26f71bdd-ab58-4735-84a1-f2cda0e013b2)
+
+
 Now it was our second day in the college. Half of the branches were asked to sit in the auditorium and others were allotted their classrooms for lectures. My turn to sit was in the auditorium. On the 2nd day we were explained about the college campus, clubs and departments and all the places in the college. In between we were having the break and then Dr. Arvind Dhingra sir let us play a game which had a great fun there. By 12:30 pm day 2 of the induction programme was also end.By this the day 3 in the college was ended.
 
 
@@ -32,6 +42,9 @@ Now it was our second day in the college. Half of the branches were asked to sit
 
 **Day 3**
 
+![download](https://github.com/user-attachments/assets/375b56d6-8bb9-457a-b03b-c5a5399d6648)
+
+
 
 On my third day,I was having lectures in the classrooms. In the first lecture we were interacted by the college official website,exam pattern,telling about the getting of library pass throughly by our seniors. And then the second lecture was of Mathematics. First we were asked to introduce ourselves and then our lecture was started by some formulas related to basics and then was given the homework by the teacher
 
@@ -39,7 +52,10 @@ On my third day,I was having lectures in the classrooms. In the first lecture we
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
 **Day 4**
+
+![download](https://github.com/user-attachments/assets/ed90eec1-433c-4a11-939e-087e11cae2fc)
 
 
 *On my fourth day, I was having my lectures in Auditorioum. My first lecture was taken by Dr. Randhir Sir . He guided us for making profile on GITHUB and told us to make our own website. He told us steps to make our website which are as follows :-*
@@ -62,6 +78,9 @@ These were the steps told by Randhir Sir.**
 
 **Day 5**
 
+![download](https://github.com/user-attachments/assets/7700f9ea-e1ed-4157-b6bf-ed93a837e9e4)
+
+
 
 *On the fifth day, firstly I was having my coding class by Dr.Hardeep Rai sir.*
 
@@ -75,6 +94,9 @@ These were the steps told by Randhir Sir.**
 
 Day 6
 
+![download](https://github.com/user-attachments/assets/4f7baf5b-87c3-4c54-891b-4060d249b74b)
+
+
 
 
 First, I was having my lecture of Mathematics. We were given the questions regarding Integration and Differentiation to solve. Problems were asked to be discuss in the class by our teacher. One by One, the student was asked to solve the question on th board. This was an interesting class.
@@ -86,6 +108,10 @@ Further, my second lecture was of UHV [Universal Human Values] which refers to e
 
 
 Day 7
+
+
+![images](https://github.com/user-attachments/assets/c906df29-90b2-444b-847f-5a336e317723)
+
 
 
 On this day, my first lecture was of UHV by Nisha Mam 
@@ -171,6 +197,12 @@ He illuminated our minds with Physics and Mathematics. He said that everything i
 Now it was our time to visit our COMPUTER SCIENCE AND ENGINEERING DEPARTMENT.
 
 Department Vision :-
+
+
+![download](https://github.com/user-attachments/assets/55038981-67e8-49a3-96c4-d1ae6339117c)
+
+
+
 To generate competent professionals to become part of the industry and research organizations at the national and international levels.
 
 Department Mission :-
@@ -199,6 +231,7 @@ This was all about this day.
 
 
 Day 9
+
 
 
 On the ninth day, our first speaker of the day was Dr. S.B Singh.
@@ -241,6 +274,11 @@ He motivated us to achieve success, to always believe in yourself and god.
 Day 10
 
 
+![download](https://github.com/user-attachments/assets/776c1413-58a8-48c5-96d5-16525267dc0d)
+
+
+
+
 Today I was having my first lecture of UHV (Universal human values) by Prof.Jasmine Kaur.
 
 Firstly, she recapped all that we had studied in our previous lectures which were taken by Manjot Mam. Then she started further with our new topic which was UNDERSTADING HARMONY IN THE SOCIETY. She discussed about the four basic human goals which are -
@@ -263,6 +301,11 @@ This was all for this day.
 
 
 Day 11
+
+
+
+![images](https://github.com/user-attachments/assets/35ba73af-9d3a-4659-a473-b4b4d9920f49)
+
 
 
 Today is the eleventh day in our college campus. We met our first speaker of the day who was Mr. Gauravdeep Singh. He is a Founder and Chairman of INITIATERS OF CHANGE. He shared his whole life journey and motivated us. He is really a blessed soul.
@@ -302,7 +345,16 @@ Now after all the speakers, we were having interaction with our seniors who gave
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Day 12
+Day 
+
+
+
+
+
+
+![download](https://github.com/user-attachments/assets/0a4b6c18-2a1c-419c-99c2-54e6423ed3d2)
+
+
 
 
 Today, I was having my first lecture of *Maths*. This lecture was taken by *Prof. RB Mam*. Sir taught us about *intregration*. First mam  started from basics  and taught us 
@@ -322,6 +374,12 @@ The highlight was a live demonstration where we saw how altering the code could 
 
 
 **The Final Day (13) of Induction: A Hackathon and Cultural Extravaganza**
+
+
+
+![download](https://github.com/user-attachments/assets/c98d144d-8a46-4d25-b574-eb323b158af7)
+
+
 
 
 Today was the last and 13th day of our induction program at Guru Nanak Dev Engineering College. The day began with a thrilling hackathon named “Promising Hackers,” organized by Dr. H.S. Rai and Dr. Randhir Singh. I arrived a little early, and soon the competition started at 9:22 AM. 
@@ -361,10 +419,183 @@ The day was a perfect blend of competition, creativity, and celebration, marking
 
 
 
-**THANK YOU**
-**HAVE A GOOD Day**
 
 
+
+
+
+**SOME FACULITY MEMBERS I HAVE SEEN IN INDUCTION PROGRM :-** 
+
+
+
+
+*1. HARPREET KAUR GREWAL MAM* 
+
+
+
+
+![DSC_071111](https://github.com/user-attachments/assets/b2541e4f-a03a-401c-9509-f478b03ef093)
+
+
+
+
+
+2. RANDHIR  SINGH SIR
+
+
+
+
+
+
+
+![rs](https://github.com/user-attachments/assets/60b6a699-0e2d-4892-977f-4a092a8c8e32)
+
+
+
+
+
+
+
+
+
+
+
+3.AMARJOT KAUR RANDHAWA MAM 
+
+
+
+
+
+
+![Amarjot-Pic](https://github.com/user-attachments/assets/552f5128-cc5c-4e58-a822-1178f4e04ab3)
+
+
+
+
+
+
+
+4. RAJVEER KAUR MAM 
+
+
+
+
+![pppppp](https://github.com/user-attachments/assets/34ba80dc-55d2-4abc-8769-570e6404afb8)
+
+
+
+
+
+5. JASMINE KAUR MAKKAR MAM 
+
+
+
+
+![IMG-20220324-WA0008](https://github.com/user-attachments/assets/3d11db92-42b9-49c1-90e2-3b76d464af05)
+
+
+
+
+6. MANDEEP KAUR MAM 
+
+
+
+
+
+![mandeep photo](https://github.com/user-attachments/assets/ed62fd86-f0fb-4c95-8c0d-349917f89af7)
+
+
+
+
+7. MANJOT KAUR MAM 
+
+
+
+
+
+![IMG-20230704-WA0013](https://github.com/user-attachments/assets/3f630b89-5f5e-42fb-9b82-664f224165c4)
+
+
+
+
+
+8. NEERAJ KUMAR  SIR 
+
+
+
+
+
+![IMG-20240220-WA0007(1)](https://github.com/user-attachments/assets/a0a1b5b5-09cf-4421-9e68-0fec2f306eee)
+
+
+
+
+
+9. RISHI KAPOOR SIR 
+
+
+
+
+![IMG_20230814_112452](https://github.com/user-attachments/assets/c07c1477-dfaf-4a73-8f71-6ff761c995ad)
+
+
+
+10.  SUKHWINDER SINGH SIR  
+
+
+
+
+
+![sukh 1](https://github.com/user-attachments/assets/8a979090-0e21-4604-88a9-22b6b224116f)
+
+
+
+
+
+11. NISHAM MASSON MAM 
+
+
+
+
+![IMG-20240726-WA0001](https://github.com/user-attachments/assets/7a33f8a5-b949-48b1-80cc-93090b04ee3d)
+
+
+
+
+12.  HARDEEP SINGH RAI SIR 
+
+
+
+
+![hsraiPP](https://github.com/user-attachments/assets/1397465e-a48d-482b-ba7f-a415d115d241)
+
+
+
+
+
+13. KIRAN JYOTI MAM 
+
+
+![kiran_jyoti](https://github.com/user-attachments/assets/d9095d8f-435a-495d-b977-f5265a13b0d6)
+
+
+
+
+14.  MEETALI MAM 
+
+
+
+![r](https://github.com/user-attachments/assets/3e470aea-1f9e-4081-9645-943bbe981eee)
+
+
+
+
+
+
+
+
+**THANK YOU SO MUCH 
+HAVE A NICE DAY**
 
 
 
